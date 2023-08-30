@@ -3,6 +3,7 @@ Ingredients:
 - 1 lime + 1 orange
 - 2 tsp salt
 - 1 dl red wine
+- 5 dl mayonase
 
 Instructions:
 - cut and mash avocados
@@ -10,3 +11,4 @@ Instructions:
 - squeeze lime
 - add salt
 - and mix well
+- taste
